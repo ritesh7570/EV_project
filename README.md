@@ -1,12 +1,40 @@
-# React + Vite
+# ⚡ Electric Vehicle Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a responsive and modern Electric Vehicle (EV) Dashboard built using **React** and **Vite**. It features interactive charts, dark mode toggle, a contact form, and a clean user interface optimized for performance.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 📊 Multiple dynamic charts for visual data representation
+- 🌗 Light/Dark mode toggle
+- 🔍 Search functionality
+- 📬 Contact form
+- 🧩 Fully responsive layout
+- 💨 Fast performance with Vite
+- 🎨 Modern and clean UI with smooth animations
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧱 Folder Structure
+
+## 🛠️ Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/ritesh7570/EV_project
+cd ev-dashboard
+
+2. Install dependencies
+
+npm install
+3. Run the development server
+
+npm run dev
+The app will be live at http://localhost:5173
+
+🏗️ Build for production
+
+npm run build
+Output will be generated in the dist/ folder.
